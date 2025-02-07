@@ -213,7 +213,7 @@ _________________
 
 #### 🔵 Basic Math & Calculus
 
-- [🎞️ Khan Academy - Calculus 1](https://www.khanacademy.org/math/calculus-1) //In process
+- [🎞️ Khan Academy - Calculus 1](https://www.khanacademy.org/math/calculus-1) //OK
 - [📘👶 Calculus For Dummies - Mark Ryan](https://a.co/d/cyvZqE1)
 - [📘💎 Thomas' Calculus](https://a.co/d/gFcCC37)
 
